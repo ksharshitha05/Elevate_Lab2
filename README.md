@@ -97,4 +97,8 @@ This task provided hands-on experience with real-world data preprocessing and st
 
 
 ## output
-
+<img width="461" height="282" alt="Image" src="https://github.com/user-attachments/assets/803be5e6-0795-457b-88b9-7da32ac8f142" />
+<img width="928" height="645" alt="Image" src="https://github.com/user-attachments/assets/c674f818-2b21-4392-bb90-b21406f8eddc" />
+<img width="1276" height="531" alt="Image" src="https://github.com/user-attachments/assets/2237ac1f-5345-42d8-8a00-a9053a8f37a3" />
+<img width="829" height="641" alt="Image" src="https://github.com/user-attachments/assets/815d533d-3103-4fa0-b909-34f9404b092d" />
+<img width="1330" height="621" alt="Image" src="https://github.com/user-attachments/assets/96c34d5d-9b98-41bb-8b23-4c260c3589a6" />
